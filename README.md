@@ -46,4 +46,4 @@ other files :
  
  Clone the git repo 
  install requiremnts
- run data.py -> utils.py -> Distiller.py -> teacher.py -> student.py -> train.py in same order.
+ run data.py -> Distiller.py -> utils.py -> teacher.py -> student.py -> train.py in same order.
